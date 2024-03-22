@@ -10,41 +10,60 @@ Curated list of applications leveraging Micro-rollups.
 
 Decentralization is good if it's not at the cost of user experience. Micro-rollups are a great way to achieve decentralization without compromising on user experience. They are small, fast and can be used to build web apps that are as good as native apps. This list is an attempt to showcase the power of micro-rollups and the kind of apps that can be built using them.
 
+Read more about micro-rollups here [mirror.xyz/stackrlabs.eth](http://mirror.xyz/stackrlabs.eth)
 
 ## Contents
 
-* [AI/ML](#ai-ml)
-* [Consumer](#consumer)
-* [DeFi](#defi)
-* [DePIN](#depin)
-* [Identity](#identity)
-* [Infrastructure](#infrastructure)
-* [Privacy](#privacy)
+- [Infrastructure](#infrastructure)
+  - [Intents](#intents)
+  - [Auth](#auth)
+  - [Payments](#payments)
+- [Privacy](#privacy)
+- [Reputation](#reputation)
+- [AI/ML](#aiml)
+- [Consumer](#consumer)
+- [Identity](#identity)
+- [Privacy](#privacy)
 
 ---
-### AI/ML
-
-* [Flockchain]
-
-### Consumer
-
-*
-
-### DeFi
-
-*
-
-### Identity
-
-* 
 
 ### Infrastructure
 
-*
+#### Intents
+
+-
+
+#### Auth
+
+-
+
+#### Payments
+
+-
 
 ### Privacy
 
-* [Cryptic Cloak]
+-
+
+### Reputation
+
+-
+
+### AI/ML
+
+-
+
+### Consumer
+
+-
+
+### Identity
+
+-
+
+### Privacy
+
+-
 
 ---
 
