@@ -14,6 +14,7 @@ Read more about micro-rollups here [mirror.xyz/stackrlabs.eth](http://mirror.xyz
 
 ## Contents
 
+- [Games](#games)
 - [Infrastructure](#infrastructure)
   - [Intents](#intents)
   - [Auth](#auth)
@@ -25,7 +26,11 @@ Read more about micro-rollups here [mirror.xyz/stackrlabs.eth](http://mirror.xyz
 - [Identity](#identity)
 - [Privacy](#privacy)
 
----
+
+### Games
+
+- [Avail Unification League](https://github.com/stackrlabs/unification-league-mru) - Open and verifiable score tracker for the Avail Unification Cup
+- [Hangman](https://github.com/0xRampey/hangman-rollup) - Play Hangman with anyone on Farcaster
 
 ### Infrastructure
 
