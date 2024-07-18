@@ -29,8 +29,7 @@ Read more about micro-rollups here [mirror.xyz/stackrlabs.eth](http://mirror.xyz
 
 ### Games
 
-- [Avail Unification League](https://github.com/stackrlabs/unification-league-mru) - Open and verifiable score tracker for the Avail Unification Cup
-- [Hangman](https://github.com/0xRampey/hangman-rollup) - Play Hangman with anyone on Farcaster
+- [Hangman](https://github.com/0xRampey/hangman-rollup) - Play Hangman with anyone on Farcaster Frame.
 
 ### Infrastructure
 
@@ -60,13 +59,9 @@ Read more about micro-rollups here [mirror.xyz/stackrlabs.eth](http://mirror.xyz
 
 ### Consumer
 
--
+- [Avail Unification Cup](https://github.com/stackrlabs/unification-cup) - Open and verifiable score tracker, tournament manager and fixture generator for the Avail Unification Cup 2024.
 
 ### Identity
-
--
-
-### Privacy
 
 -
 
