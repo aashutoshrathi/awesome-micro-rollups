@@ -14,6 +14,7 @@ Read more about micro-rollups here [mirror.xyz/stackrlabs.eth](http://mirror.xyz
 
 ## Contents
 
+- [DeFi](#defi)
 - [Games](#games)
 - [Infrastructure](#infrastructure)
   - [Intents](#intents)
@@ -26,6 +27,9 @@ Read more about micro-rollups here [mirror.xyz/stackrlabs.eth](http://mirror.xyz
 - [Identity](#identity)
 - [Privacy](#privacy)
 
+### DeFi
+
+- [Orderbook DEX MRU](https://github.com/eshaan7/orderbook-dex-mru) - An MEV-aware orderbook DEX MRU.
 
 ### Games
 
