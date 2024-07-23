@@ -34,6 +34,7 @@ Read more about micro-rollups here [mirror.xyz/stackrlabs.eth](http://mirror.xyz
 ### Games
 
 - [Hangman](https://github.com/0xRampey/hangman-rollup) - Play Hangman with anyone on Farcaster Frame.
+- [Scoring system Ephemeral Micro-Rollup](https://github.com/eshaan7/ephemeral-mru-ctf-scoring) - Ephemeral Micro-Rollup that can be used as a Scoring System for games like Capture The Flag (CTF).
 
 ### Infrastructure
 
