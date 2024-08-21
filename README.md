@@ -39,6 +39,12 @@ Read more about micro-rollups here [mirror.xyz/stackrlabs.eth](http://mirror.xyz
 - [Comets](https://github.com/stackrlabs/comets) - Comets is a fully-onchain space-themed game rollup inspired by the classic Asteroids. Navigate through a field of asteroids, blast them into smaller pieces, and watch out for alien ships! This leverages native wallet to sign transactions for start and end game. [Play here :comet:](https://comets.stf.xyz)
 - [dChess](https://github.com/stackrlabs/dchess) - dChess is a fully-onchain multiplayer chess game rollup. Every move is a transaction on micro-rollup signed by user's embedded wallet. [Play here :chess_pawn:](https://chess.stf.xyz)
 
+### Infrastructure
+
+#### Intents
+
+- [Intents Solver](https://github.com/Dhruv-2003/IntentsMRU): Translating intents into on-chain actions. Bringing the power of blockchain with natural language interactions, enabled by Intents-MRU's decentralized solver network.
+
 ### Consumer
 
 - [Avail Unification Cup](https://github.com/stackrlabs/unification-cup) - Open and verifiable score tracker, tournament manager and fixture generator for the Avail Unification Cup 2024.
