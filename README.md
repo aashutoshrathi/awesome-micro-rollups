@@ -20,7 +20,6 @@ Read more about micro-rollups here [mirror.xyz/stackrlabs.eth](http://mirror.xyz
   - [Intents](#intents)
   - [Auth](#auth)
   - [Payments](#payments)
-- [Privacy](#privacy)
 - [Reputation](#reputation)
 - [AI/ML](#aiml)
 - [Consumer](#consumer)
