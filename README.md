@@ -36,40 +36,12 @@ Read more about micro-rollups here [mirror.xyz/stackrlabs.eth](http://mirror.xyz
 - [Hangman](https://github.com/0xRampey/hangman-rollup) - Play Hangman with anyone on Farcaster Frame.
 - [Scoring system](https://github.com/eshaan7/ctf-scoring-ephemeral-mru) - Ephemeral Micro-Rollup that can be used as a Scoring System for games like Capture The Flag (CTF).
 - [Conway's Game of Life](https://github.com/eshaan7/conways-game-of-life-mru) - Conway's Game of Life implemented as a Micro-Rollup with automatic ticks.
-
-### Infrastructure
-
-#### Intents
-
--
-
-#### Auth
-
--
-
-#### Payments
-
--
-
-### Privacy
-
--
-
-### Reputation
-
--
-
-### AI/ML
-
--
+- [Comets](https://github.com/stackrlabs/comets) - Comets is a fully-onchain space-themed game rollup inspired by the classic Asteroids. Navigate through a field of asteroids, blast them into smaller pieces, and watch out for alien ships! This leverages native wallet to sign transactions for start and end game. [Play here :comet:](https://comets.stf.xyz)
+- [dChess](https://github.com/stackrlabs/dchess) - dChess is a fully-onchain multiplayer chess game rollup. Every move is a transaction on micro-rollup signed by user's embedded wallet. [Play here :chess_pawn:](https://chess.stf.xyz)
 
 ### Consumer
 
 - [Avail Unification Cup](https://github.com/stackrlabs/unification-cup) - Open and verifiable score tracker, tournament manager and fixture generator for the Avail Unification Cup 2024.
-
-### Identity
-
--
 
 ---
 
