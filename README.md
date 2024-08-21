@@ -20,7 +20,6 @@ Read more about micro-rollups here [mirror.xyz/stackrlabs.eth](http://mirror.xyz
   - [Intents](#intents)
   - [Auth](#auth)
   - [Payments](#payments)
-- [Privacy](#privacy)
 - [Reputation](#reputation)
 - [AI/ML](#aiml)
 - [Consumer](#consumer)
@@ -45,9 +44,21 @@ Read more about micro-rollups here [mirror.xyz/stackrlabs.eth](http://mirror.xyz
 
 - [Intents Solver](https://github.com/Dhruv-2003/IntentsMRU): Translating intents into on-chain actions. Bringing the power of blockchain with natural language interactions, enabled by Intents-MRU's decentralized solver network.
 
+#### Payments
+
+- [UTXO](https://github.com/Dhruv-2003/UTXO-rollup): A UTXO based transaction model implemented as a stackr micro rollup for p2p payments.
+
+### Reputation
+
+- [VeriCast](https://github.com/Dhruv-2003/RepuationSystemMRU): Reputation system developed for the Farcaster platform to address the prevalent issues of fake accounts, spam/bots, and lack of transparency built on micro rollup.
+
 ### Consumer
 
 - [Avail Unification Cup](https://github.com/stackrlabs/unification-cup) - Open and verifiable score tracker, tournament manager and fixture generator for the Avail Unification Cup 2024.
+
+### Privacy
+
+- [Stealth MRU](https://github.com/Dhruv-2003/StealthMRU) - Stealth Address based privacy enabling micro rollup for all EVM Blockchains. Built at ETHIndia23 as [Cryptic Cloak](https://ethglobal.com/showcase/crypticcloak-stealth-micro-rollup-a3mai)
 
 ---
 
