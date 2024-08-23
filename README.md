@@ -25,6 +25,7 @@ Read more about micro-rollups here [mirror.xyz/stackrlabs.eth](http://mirror.xyz
 - [Consumer](#consumer)
 - [Identity](#identity)
 - [Privacy](#privacy)
+- [Integrations](#integrations)
 
 ### DeFi
 
@@ -59,6 +60,18 @@ Read more about micro-rollups here [mirror.xyz/stackrlabs.eth](http://mirror.xyz
 ### Privacy
 
 - [Stealth MRU](https://github.com/Dhruv-2003/StealthMRU) - Stealth Address based privacy enabling micro rollup for all EVM Blockchains. Built at ETHIndia23 as [Cryptic Cloak](https://ethglobal.com/showcase/crypticcloak-stealth-micro-rollup-a3mai)
+
+### Integrations
+
+- [Oracles](https://github.com/Dhruv-2003/Oracles-mru-integration?tab=readme-ov-file) - Allows you to feed external price data into the rollup, enabling state transitions based on live data from Chainlink, Chronicle, or Pyth.
+
+- [Wallet providers](https://github.com/Dhruv-2003/Walletprovider-mru-example?tab=readme-ov-file) - Enables users to interact with the rollup using their preferred authentication methods, including social login, embedded wallets, self-custodial wallets, or WalletConnect.
+
+- [Cross Chain Bridging](https://github.com/Architsharma7/Bridges-Stackr) - Helps set up cross-chain bridges for message passing and token bridging from any other chain to Stackr's micro-rollups using **Hyperlane**, **Axelar**, or **LayerZero**.
+
+- [Event Notifier via XMTP](https://github.com/Architsharma7/XMTP-MRU) An event notifier for users of Stackr's micro-rollup using **XMTP**.
+
+- [Access Control with Lit](https://github.com/Architsharma7/Lit-Stackr) Allows you to add access control based on the micro-rollup's state using **Lit Actions** and session signatures.
 
 ---
 
