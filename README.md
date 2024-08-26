@@ -30,6 +30,7 @@ Read more about micro-rollups here [mirror.xyz/stackrlabs.eth](http://mirror.xyz
 ### DeFi
 
 - [Orderbook DEX MRU](https://github.com/eshaan7/orderbook-dex-mru) - An MEV-aware orderbook DEX MRU.
+- [Token Streaming MRU](https://github.com/kautukkundan/token-stream-mru/) - A token streaming service built on top of a micro-rollup, inspired by Superfluid.
 
 ### Games
 
